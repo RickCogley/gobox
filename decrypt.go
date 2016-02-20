@@ -1,7 +1,7 @@
 package main
 
 import (
-	"code.google.com/p/go.crypto/nacl/box"
+	"github.com/golang/crypto/nacl/box"
 	"encoding/json"
 	"fmt"
 	"io"
