@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/golang/crypto/nacl/box"
+	"golang.org/x/crypto/nacl/box"
 	"crypto/rand"
 	"fmt"
 	"io"
